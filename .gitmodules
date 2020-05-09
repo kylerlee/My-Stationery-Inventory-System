@@ -1,0 +1,9 @@
+[submodule "Stationery-Inventory-System-Web-App"]
+	path = Stationery-Inventory-System-Web-App
+	url = https://github.com/kylerlee/Stationery-Inventory-System-Web-App.git
+[submodule "Stationery-Inventory-System-Android-App"]
+	path = Stationery-Inventory-System-Android-App
+	url = https://github.com/kylerlee/Stationery-Inventory-System-Android-App.git
+[submodule "Stationery-Inventory-System-RESTful-API"]
+	path = Stationery-Inventory-System-RESTful-API
+	url = https://github.com/kylerlee/Stationery-Inventory-System-RESTful-API.git
